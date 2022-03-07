@@ -8,3 +8,9 @@ On doit donc tester différents modèles de prédiction afin de répondre au mie
 La prédiction se basera sur les données déclaratives du permis d'exploitation commerciale (taille et usage des bâtiments, mention de travaux récents, date de construction..)
 
 les données sont disponibles à l'adresse suivante: https://www.kaggle.com/city-of-seattle/sea-building-energy-benchmarking#2015-building-energy-benchmarking.csv
+
+# Compétences évaluées:
+- Mettre en place le modèle d'apprentissage supervisé adapté au problème métier
+- Adapter les hyperparamètres d'un algorithme d'apprentissage supervisé afin de l'améliorer
+- Transformer les variables pertinentes d'un modèle d'apprentissage supervisé
+- Évaluer les performances d’un modèle d'apprentissage supervisé
